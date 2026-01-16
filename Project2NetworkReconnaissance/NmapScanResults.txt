@@ -1,0 +1,2 @@
+PORT     STATE SERVICE VERSION
+631/tcp  open  ssh     CUPS 2.4
